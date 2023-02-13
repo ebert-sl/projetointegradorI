@@ -1,12 +1,15 @@
-# Projeto Integrador I - IFPI ADS 2023.1
+# Projeto Integrador I
+Instituto Federal do Piauí
+Campus Teresina Central
+Análise e Desenvolvimento de Sistemas 2023.1
 
-# Membros
+## Membros
 
 - Aser Carvalho
 - Ébert Ian
 - Igor Gabriel
 
-# Informações do Projeto
+## Informações do Projeto
 
 - Ferramenta de Gerenciamento de Projeto: Notion
 - Tema Principal: Leitor de Notícias | Shift News
