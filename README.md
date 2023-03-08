@@ -16,7 +16,7 @@ Análise e Desenvolvimento de Sistemas 2023.1
 - Ferramenta de Gerenciamento de Projeto: Notion
 - Tema Principal: Leitor de Notícias | Shift News
   - Objetivo: Proporcionar um ambiente seguro e com mínima coleta de dados para interação com notícias do mundo.
-  - Funcionalidades:
+  - Funcionalidades (em vídeo: https://t.ly/wgq2):
     - Cadastro de usuários: para salvar as interações com notícias agregadas
     - Agregar link de notícia (por conta do usuário): coleta o link e dispõe em card na interface do leitor para interação
     - Exibir as notícias: mostra os cards das notícias na interface do usuário, atualizando de forma automática a medida que houver novas
